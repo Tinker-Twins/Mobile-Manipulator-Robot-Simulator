@@ -1,5 +1,4 @@
-%% AuE 8220 - Autonomy: Mobility and Manipulation
-% Project: Mobile Manipulator %
+%% Mobile Manipulator Simulator
 % Authors: Tanmay Samak, Chinmay Samak
 
 close all;
