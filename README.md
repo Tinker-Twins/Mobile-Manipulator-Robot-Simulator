@@ -5,4 +5,4 @@ A Simulator for Design, Analysis, Redundancy Resolution, and Control of Differen
 
 | ![MATLAB Script](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/blob/main/MATLAB%20Script.png) | ![MATLAB Script](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/blob/main/MATLAB%20App.png) | ![MATLAB Script](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/blob/main/MATLAB%20CoppeliaSim.png) |
 |:------------------:|:------------------:|:------------------:|
-| [MATLAB Script](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/tree/main/MATLAB%20Script) | [MATLAB App](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/tree/main/MATLAB%20App) | [MATLAB CoppeliaSim](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/tree/main/CoppeliaSim) |
+| [MATLAB Script](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/tree/main/MATLAB%20Script) | [MATLAB App](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/tree/main/MATLAB%20App) | [CoppeliaSim Co-Simulation](https://github.com/Tinker-Twins/Mobile-Manipulator-Robot-Simulator/tree/main/CoppeliaSim) |
